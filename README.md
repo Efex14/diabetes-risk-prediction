@@ -118,8 +118,8 @@ python -m streamlit run app/streamlit_app.py
 
 ## Project Links
 
-- GitHub Repository: https://github.com/Efex14/diabetes-risk-prediction
-- Streamlit App: https://diabetesriskpredictionmis308.streamlit.app/
+- GitHub repository: https://github.com/Efex14/diabetes-risk-prediction
+- Streamlit deployment: https://diabetesriskpredictionmis308.streamlit.app/
 - Kaggle Notebook: https://www.kaggle.com/code/yusufefeakar/diabetes-risk-prediction-mis308
 
 ## Disclaimer
