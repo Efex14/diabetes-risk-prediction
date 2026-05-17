@@ -119,7 +119,7 @@ python -m streamlit run app/streamlit_app.py
 ## Project Links
 
 - GitHub repository: https://github.com/Efex14/diabetes-risk-prediction
-- Streamlit deployment: TODO - add deployed app link
+- Streamlit deployment: https://diabetesriskpredictionmis308.streamlit.app/
 
 ## Disclaimer
 
